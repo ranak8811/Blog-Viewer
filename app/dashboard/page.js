@@ -26,7 +26,7 @@ async function Dashboard() {
           {user?.email || "No email provided"}
         </p>
         <p className="mt-6 text-sm text-gray-500">
-          Thank you for being part of our platform!!!
+          Thank you for being part of our platform!!
         </p>
       </div>
     </div>
